@@ -6,7 +6,7 @@ A proof-of-stake cryptocurrency based on PIVX with privacy features through Zero
 
 TWINS is a decentralized cryptocurrency that implements proof-of-stake consensus with masternode functionality and privacy features. The network supports both regular transactions and privacy-enhanced transactions through the Zerocoin protocol.
 
-## Key Features
+## Key Features!
 
 - **Proof of Stake Consensus**: Energy-efficient consensus mechanism after initial PoW phase
 - **Masternode Network**: Multi-tier masternode system providing network services
